@@ -65,6 +65,8 @@ Consider implementing the following enhancements for a more robust experience:
     - **File Path Details**: Log the source and destination paths for each moved file, helping users verify where files are being relocated.
     - **Success/Failure Status**: Add status indicators to each action (e.g., "Moved", "Renamed", "Failed").
 
+3. **Expand Functionality of Script**: Allow users to specify what folders they want to clean, not just their Downloads directory.
+
 Example:
 
 ```
