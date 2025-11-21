@@ -94,7 +94,7 @@ I welcome contributions to improve and optimize the script. Whether you're fixin
 
 2. **Clone your fork**: 
    ```bash
-   git clone https://github.com/your-username/cleandownloads.git
+   git clone https://github.com/jordansmalls/cleandownloads.git
    cd cleandownloads
    ```
 3. **Create a new branch**: Use a clear and descriptive branch name for your feature or fix.
